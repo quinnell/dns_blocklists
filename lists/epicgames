@@ -7,6 +7,11 @@
 0.0.0.0 api.epicgames.dev
 0.0.0.0 egp-idsoc-proxy-prod.ol.epicgames.com
 
+0.0.0.0 cdn1.epicgames.com
+0.0.0.0 store-site-backend-static-ipv4.ak.epicgames.com
+0.0.0.0 perf.store.on.epicgames.com
+0.0.0.0	epic-social-social-modules-prod.ol.epicgames.com
+
 # https://steamcommunity.com/sharedfiles/filedetails/?id=2594056744
 0.0.0.0 dev.epicgames.com
 0.0.0.0 api.epicgames.dev
