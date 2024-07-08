@@ -6,6 +6,7 @@
 0.0.0.0 metrics.ol.epicgames.com
 0.0.0.0 api.epicgames.dev
 0.0.0.0 egp-idsoc-proxy-prod.ol.epicgames.com
+0.0.0.0 *.epicgames.com
 
 # https://steamcommunity.com/sharedfiles/filedetails/?id=2594056744
 0.0.0.0 dev.epicgames.com
