@@ -3,18 +3,33 @@
 ||tiktokcdn-us.com^
 ||tiktokv.com^
 ||tiktokv.us^
-||byteoversea.net^
-||bytedance.com^
 ||ttwstatic.com^
 ||tiktok.com^
 
 ||tiktokcdn.com.akamaized.net^
 ||tiktokv.com.edgesuite.net^
-||musical.ly.edgesuite.net^
-||webcast*.amemv.com^
+
+# Bytedance domains
+||byteoversea.net^
+||byteoversea.com^
+||bytedance.com^
+||bytedance.net^
+||bytecdn.cn^
+||bytetcdn.com^
+||byted.org^
+||bytedanceapi.com^
+||bytedns.net^
+||byteimg.com^
+||bytexservice.com^
+||byteoversea.com.edgekey.net^
+||byteoversea.net.edgekey.net^
+
+# Misc related domains
 ||isnssdk.com^
 ||bdurl.net^
 ||musemuse.cn^
 ||musically.ly^
+||musical.ly.edgesuite.net^
 ||ibyteimg.com^
 ||ibytedtos.com^
+||ibytedtos.com.edgekey.net^
