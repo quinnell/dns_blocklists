@@ -1,6 +1,7 @@
 # Blocks TikTok servers
 
-||tiktokcdn*com^
+||tiktokcdn.com^
+||tiktokcdn-us.com^
 ||tiktokv.com^
 ||ttwstatic.com^
 ||tiktok.com^
