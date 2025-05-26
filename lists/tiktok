@@ -2,8 +2,19 @@
 ||tiktokcdn.com^
 ||tiktokcdn-us.com^
 ||tiktokv.com^
+||tiktokv.us^
+||byteoversea.net^
+||bytedance.com^
 ||ttwstatic.com^
 ||tiktok.com^
 
-# RegEx to block any domain containing TikTok
-/^https?:\/\/([^\/]*tiktok[^\/]*)\//^
+||tiktokcdn.com.akamaized.net^
+||tiktokv.com.edgesuite.net^
+||musical.ly.edgesuite.net^
+||webcast*.amemv.com^
+||isnssdk.com^
+||bdurl.net^
+||musemuse.cn^
+||musically.ly^
+||ibyteimg.com^
+||ibytedtos.com^
