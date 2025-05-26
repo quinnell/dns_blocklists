@@ -1,7 +1,9 @@
 # Blocks TikTok servers
-
 ||tiktokcdn.com^
 ||tiktokcdn-us.com^
 ||tiktokv.com^
 ||ttwstatic.com^
 ||tiktok.com^
+
+# RegEx to block any domain containing TikTok
+/^https?:\/\/([^\/]*tiktok[^\/]*)\//^
