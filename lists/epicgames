@@ -1,8 +1,7 @@
 # Blocks Epic Games and Epic Online services
 
-0.0.0.0 epicgames.com
-0.0.0.0 epicgames.dev
-0.0.0.0 www.epicgames.com
+||epicgames.com^
+||epicgames.dev^
 0.0.0.0 store.epicgames.com
 0.0.0.0 metrics.ol.epicgames.com
 0.0.0.0 api.epicgames.dev
