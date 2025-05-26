@@ -12,8 +12,8 @@
 #0.0.0.0 cdn1.epicgames.com
 #0.0.0.0 store-site-backend-static-ipv4.ak.epicgames.com
 #0.0.0.0 perf.store.on.epicgames.com
-#0.0.0.0	epic-social-social-modules-prod.ol.epicgames.com
-#0.0.0.0	store-content-ipv4.ak.epicgames.com
+#0.0.0.0 epic-social-social-modules-prod.ol.epicgames.com
+#0.0.0.0 store-content-ipv4.ak.epicgames.com
 #0.0.0.0 static-assets-prod.epicgames.com
 #0.0.0.0 graphql.epicgames.com
 
