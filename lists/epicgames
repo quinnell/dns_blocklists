@@ -2,28 +2,30 @@
 
 ||epicgames.com^
 ||epicgames.dev^
-0.0.0.0 store.epicgames.com
-0.0.0.0 metrics.ol.epicgames.com
-0.0.0.0 api.epicgames.dev
-0.0.0.0 egp-idsoc-proxy-prod.ol.epicgames.com
 
-0.0.0.0 cdn1.epicgames.com
-0.0.0.0 store-site-backend-static-ipv4.ak.epicgames.com
-0.0.0.0 perf.store.on.epicgames.com
-0.0.0.0	epic-social-social-modules-prod.ol.epicgames.com
-0.0.0.0	store-content-ipv4.ak.epicgames.com
-0.0.0.0 static-assets-prod.epicgames.com
-0.0.0.0 graphql.epicgames.com
+# Old direct block URLs
+#0.0.0.0 store.epicgames.com
+#0.0.0.0 metrics.ol.epicgames.com
+#0.0.0.0 api.epicgames.dev
+#0.0.0.0 egp-idsoc-proxy-prod.ol.epicgames.com
+
+#0.0.0.0 cdn1.epicgames.com
+#0.0.0.0 store-site-backend-static-ipv4.ak.epicgames.com
+#0.0.0.0 perf.store.on.epicgames.com
+#0.0.0.0	epic-social-social-modules-prod.ol.epicgames.com
+#0.0.0.0	store-content-ipv4.ak.epicgames.com
+#0.0.0.0 static-assets-prod.epicgames.com
+#0.0.0.0 graphql.epicgames.com
 
 # https://steamcommunity.com/sharedfiles/filedetails/?id=2594056744
-0.0.0.0 dev.epicgames.com
-0.0.0.0 api.epicgames.dev
-0.0.0.0 et.epicgames.com
-0.0.0.0 et2.epicgames.com
-0.0.0.0 udn.epicgames.com
-0.0.0.0 etsource.epicgames.com
-0.0.0.0 metrics.ol.epicgames.com
-0.0.0.0 datarouter.ol.epicgames.com
-0.0.0.0 datarouter.ol.epicgames.com
-0.0.0.0 datarouter-weighted.ol.epicgames.com
-0.0.0.0 datarouter-prod.ak.epicgames.com
+#0.0.0.0 dev.epicgames.com
+#0.0.0.0 api.epicgames.dev
+#0.0.0.0 et.epicgames.com
+#0.0.0.0 et2.epicgames.com
+#0.0.0.0 udn.epicgames.com
+#0.0.0.0 etsource.epicgames.com
+#0.0.0.0 metrics.ol.epicgames.com
+#0.0.0.0 datarouter.ol.epicgames.com
+#0.0.0.0 datarouter.ol.epicgames.com
+#0.0.0.0 datarouter-weighted.ol.epicgames.com
+#0.0.0.0 datarouter-prod.ak.epicgames.com
